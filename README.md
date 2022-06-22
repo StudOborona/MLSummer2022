@@ -2,6 +2,29 @@
 
 Практическая часть Машинное Обучение (ML) лето 2022
 
+### Задания
+
+1. Очистка данных и обучение моделей. Датасет: https://www.kaggle.com/akshayksingh/kidney-disease-dataset
+
+2. Очистка данных и обучение моделей. Датасет: https://www.kaggle.com/elikplim/forest-fires-data-set
+
+3. Описательный анализ и визуализация данных. Датасет: https://www.kaggle.com/shebrahimi/financial-distress
+ 
+4. Описательный анализ и визуализация данных. Датасет: https://www.kaggle.com/akshayksingh/kidney-disease-dataset
+ 
+5. Построение модели и оптимизация гиперпараметров. Датасет: https://www.kaggle.com/kaushiksuresh147/customer-segmentation
+ 
+6. Построение модели и оптимизация гиперпараметров. Датасет: https://www.kaggle.com/elikplim/forest-fires-data-set
+
+7. Выбор признаков. Датасет: https://www.kaggle.com/amir75/caesarean-section-classification
+
+8. Выбор признаков. Датасет: https://www.kaggle.com/amir75/caesarean-section-classification
+
+9. Исследование влияния обучения без учителя на эффективность обучения. Датасет: https://www.kaggle.com/veer06b/marrket-mix-dataset
+
+10. Исследование влияния обучения без учителя на эффективность обучения. Датасет: https://www.kaggle.com/sachinsharma1123/performance-prediction
+
+
 ### Работа с репозиторием
 
 1. Создать ветку от `master` для выполнения своего задания. Наименование ветки: `<author>__task_<n>`,
@@ -25,11 +48,6 @@
 ├───README.md  # вы здесь
 └───requirements.txt  # файл с версиями используемых библиотек
 ```
-
-### Задания
-
-- файл [Машинка теория.docx](https://docs.google.com/document/d/1Wvbh8_V136eJZkpTeUbHaM5Xh6DHuG8L/edit) (тут задания 1-10)
-- файл [Методические указания к экзамену.docx](https://docs.google.com/document/d/1b3Py3FyRpE3e7IMyX-ZZj1OYbU_Cpq80/edit) (файл по ссылке "Программа экзамена" с [сайта Коротеева](https://koroteev.site/ml/#%D0%B4%D0%BB%D1%8F-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0))
 
 ### Выполнение заданий
 
@@ -99,3 +117,8 @@
 
 - python >= 3.8
 - requirements.txt
+
+### Дополнительно
+
+- файл [Машинка теория.docx](https://docs.google.com/document/d/1Wvbh8_V136eJZkpTeUbHaM5Xh6DHuG8L/edit) (тут задания 1-10)
+- файл [Методические указания к экзамену.docx](https://docs.google.com/document/d/1b3Py3FyRpE3e7IMyX-ZZj1OYbU_Cpq80/edit) (файл по ссылке "Программа экзамена" с [сайта Коротеева](https://koroteev.site/ml/#%D0%B4%D0%BB%D1%8F-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0))
