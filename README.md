@@ -20,9 +20,11 @@
 
 8. Выбор признаков. Датасет: https://www.kaggle.com/amir75/caesarean-section-classification
 
-9. Исследование влияния обучения без учителя на эффективность обучения. Датасет: https://www.kaggle.com/veer06b/marrket-mix-dataset
+~~9. Исследование влияния обучения без учителя на эффективность обучения. Датасет: https://www.kaggle.com/veer06b/marrket-mix-dataset~~
 
-10. Исследование влияния обучения без учителя на эффективность обучения. Датасет: https://www.kaggle.com/sachinsharma1123/performance-prediction
+~~10. Исследование влияния обучения без учителя на эффективность обучения. Датасет: https://www.kaggle.com/sachinsharma1123/performance-prediction~~
+
+Для исследования влияния обучения без учителя на эффективность обучения (задания 9-10) используйте [пример](https://github.com/StudOborona/MLSummer2022/blob/master/more/143/%D0%92%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%20143.ipynb) от  [**@immortalBan**](https://github.com/immortalBan)
 
 
 ### Работа с репозиторием
